@@ -1,0 +1,11 @@
+{
+  "package_id": "com.fabiobenoit.idpspa",
+  "edition": "202601",
+  "name": "idp-spa",
+  "version": "0.1.0",
+  "min_app_version": "0.1.0",
+  "tagline": "State Permission Action HUD",
+  "description": "A minimal Even app that shows State, Permission, and Action.",
+  "author": "Fabio Benoit",
+  "entrypoint": "index.html"
+}
